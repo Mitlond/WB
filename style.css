@@ -1,0 +1,64 @@
+.Bloc{
+height:900px;	
+width:1600px;	
+}
+
+
+.Right{
+position: absolute;
+height: 826px;
+background-color: green;
+width: 252px;
+top: 194px;
+left: 10px;
+Border-width: 3px;
+border-Style: outset;
+}
+.Center{
+position: absolute;
+background-color: #fff;
+opacity: 0.5;
+height: 594px;
+width: 1060px;
+top: 195px;
+left: 272px;
+Border-width: 2px;
+border-Style: solid;
+}
+
+.Left{
+position: absolute;
+height: 826px;
+width: 258px;
+top: 194px;
+right: -22px;
+Border-width: 3px;
+border-Style: inset;
+background: rgba(206,171,107,0.7);
+}
+
+.Up{
+position: relative;
+font-family: 'PT_Sans-Web-Bold';
+height: 160px;
+width: 1587px;
+top: -884px;
+left: 4px;
+Border-width: 2px;
+border-Style: solid;
+}
+
+.Down{
+position: absolute;
+font-family: 'Pompadur';
+height: 217px;
+width: 1060px;
+top: 805px;
+left: 274px;
+color: white;
+Border-width: 7px;
+box-shadow: 1px 2px 3px 4px #110F15;
+border-Style: solid;
+border: none;
+font-size: 22pt;
+}
